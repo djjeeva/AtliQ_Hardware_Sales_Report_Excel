@@ -34,7 +34,6 @@ The goal of sales analytics is to empower businesses with insights into their sa
 
 ### Objectives
 1. **Profit and Loss (P&L) Reports**: Generate P&L reports categorized by fiscal year.
-2. **Market-Specific P&L Reports**: Analyze profitability across different markets.
 
 ### Purpose of Finance Analytics
 The finance report aims to evaluate the organization's financial health and inform strategic decision-making.
